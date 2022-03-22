@@ -10,7 +10,8 @@
 
 --------------------------------------
 ### 👨🏽‍💻 Skill & EXP
-## Main
+
+- Main
 <p>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -38,7 +39,8 @@
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 </p>
-## Optionals
+
+- Optionals
 <p>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
