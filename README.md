@@ -27,8 +27,7 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=plastic&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=plastic&logo=Apache&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Bitbuket-blue?style=plastic&logo=bitbucket&logoColor=white"/>   
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=plastic&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=plastic&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sketch-FA6400?style=plastic&logo=Sketch&logoColor=white"/>
