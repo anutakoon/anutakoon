@@ -15,8 +15,9 @@
 - Main
 <p>
   <p>
-    <img src="https://img.shields.io/badge/-Swift-orange?style=plastic&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Objective--C-black?style=plastic&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Objective--C-black?style=flat-square&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=firebase&logoColor=white"/>
   </p>
 </p>
 
@@ -28,11 +29,11 @@
     <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apache-D22128?style=plastic&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Trello-0079BF?style=plastic&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=plastic&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=plastic&logo=Sketch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=plastic&logo=Google%20Cloud&logoColor=white"/>
   </p>
 </p>
 
