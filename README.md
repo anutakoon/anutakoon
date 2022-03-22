@@ -8,9 +8,10 @@
 - 📱 I'm a iOS Developer working in Bangkok Thailand.
 - 🌵 I'm a Cactus Farmer in Lampang nothern of Thailand.
 
+--------------------------------------
+### Skill & EXP
 
-
-
+--------------------------------------
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anutakoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
