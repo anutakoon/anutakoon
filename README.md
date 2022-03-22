@@ -16,7 +16,7 @@
 <p>
   <p>
     <img src="https://img.shields.io/badge/-Swift-orange?style=plastic&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Objective--C-black?style=plastic&logo=apple&logoColor=white"/>
   </p>
 </p>
 
