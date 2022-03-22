@@ -1,6 +1,10 @@
 Hi! there, I'm Saritwat 🙏
 
-I'm a iOS Developer
+I am a iOS Developer 📱
+
+I am a cactus lover 🌵 @Chamai Cactus Thailand
+
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
