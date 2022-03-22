@@ -6,8 +6,8 @@
 
 
 
-- 📱 I'm a iOS Developer
-- 🌵 I'm a Cactus Lover 
+- 📱 I'm a iOS Developer working in Bangkok Thailand.
+- 🌵 I'm a Cactus Farmer in Lampang nothern of Thailand.
 
 
 
