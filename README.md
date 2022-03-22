@@ -1,8 +1,8 @@
 Hi! there, I'm Saritwat 🙏
 
-I am a iOS Developer 📱
+- 📱 I'm a iOS Developer 
 
-I am a cactus lover 🌵 @Chamai Cactus Thailand
+- 🌵 I'm a cactus lover 
 
 
 
