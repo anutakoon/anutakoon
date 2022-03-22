@@ -1,4 +1,5 @@
-Hi! there, I'm Saritwat 🙏\n
+Hi! there, I'm Saritwat 🙏
+
 I'm a iOS Developer
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
