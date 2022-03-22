@@ -1,7 +1,6 @@
 Hi! there, I'm Saritwat 🙏
 
 - 📱 I'm a iOS Developer 
-
 - 🌵 I'm a cactus lover 
 
 
