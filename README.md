@@ -18,8 +18,12 @@
     <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Objective--C-black?style=flat-square&logo=apple&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=firebase&logoColor=white"/>
+  </p>
+</p>
+<p>
+  <p>
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
    <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
   </p>
 </p>
