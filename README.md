@@ -5,7 +5,7 @@
 
 
 
-- 📱 I'm a Web & Application Manager working in Bangkok Thailand.
+- 📱 I'm a Web & Mobile Application Manager working in Bangkok Thailand.
 - 🌵 I'm a Cactus Farmer in Lampang nothern of Thailand.
 - 💻 Senior Application developer at PSI Company Thailand.
 
